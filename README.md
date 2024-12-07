@@ -118,10 +118,33 @@
 
 <br/>
 
+<img src="rollup1.png" style="zoom:80%;" />
 
+<br/>
 
+<img src="rollup2.png" style="zoom:80%;" />
 
+<br/>
 
+<img src="presentacion1.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="comite organizador.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="agroalnext.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="panel.png" style="zoom:80%;" />
+
+<br/>
+
+<img src="Marina copy.png" style="zoom:80%;" />
+
+<br/>
 
 
 
